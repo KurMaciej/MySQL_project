@@ -15,7 +15,7 @@ The "Bookstore Data Analysis and Reporting" project is a Python-based tool desig
 
 **Demo Database:**
 
-The bookstore database used for the demonstration of the program's capabilities was imported from [databasestar.com](https://www.databasestar.com/sample-bookstore-database/).
+The bookstore database used in the project was imported from [databasestar.com](https://www.databasestar.com/sample-bookstore-database/).
 
 Below you can see a schema of the database.
 
